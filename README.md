@@ -19,17 +19,13 @@ ChamodyaWRT is a free and open-source firmware developed for the TOZED S12 PRO r
 
 * 📶 Band locking and cell locking for LTE modem
 
-* 📡 Carrier Aggregation (CA) optimization for faster and more stable mobile data connections
-
-* 💡 Custom LED configuration and Task Plan
+* 💡 Custom LED configuration
 
 * 💬 SMS utilities to read and send messages from supported modems
 
-* 🔐 PassWall for advanced proxy, VPN, and firewall control(optional)
+* 🔐 PassWall for advanced proxy, VPN, and firewall control(not available)
 
-* 🏠 HomeProxy for advanced proxy management(optional)
-
-* 🔄 Watchcat for auto-reboot and network monitoring
+* 🏠 HomeProxy for advanced proxy management(not available)
 
 * 🌐 Guest Wi-Fi support to isolate visitor traffic from your main network
 
@@ -38,8 +34,6 @@ ChamodyaWRT is a free and open-source firmware developed for the TOZED S12 PRO r
 * 🔌Preinstalled USB support packages for external drives and hotplug auto-mounting
 
 * 👨‍👩‍👧‍👦 Parental controls and timed network access to manage internet usage
-
-* 📊 Traffic Monitoring to track bandwidth usage by device, interface, or time period
 
 * please check releases for more updates
 
@@ -111,7 +105,7 @@ Password: 1234567890
 
 ## 📢 Stay Updated
 
-- ChamodyaWRT will continue to be actively maintained and updated for as long as I use the AW1000 router. Community feedback and suggestions are highly encouraged!
+- ChamodyaWRT will continue to be actively maintained and updated for as long as I use the S12 pro router. Community feedback and suggestions are highly encouraged!
 
 - Let’s work together to make ChamodyaWRT even better for everyone!
 
