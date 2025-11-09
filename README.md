@@ -3,7 +3,7 @@
 
 ChamodyaWRT is a free and open-source firmware developed for the TOZED S12 PRO router, focused on enhancing performance, flexibility, and community access. This project is developed in my free time and provided as-is, without any guarantees regarding functionality, stability, or performance. While it is completely free to use, users are encouraged to take full responsibility when installing and using the firmware.
 <br><br>
-**Every firmware image is personally tested on my own TOZED S12 PRO before being published, to ensure basic functionality and minimize risk during flashing.**
+**Every firmware image is personally tested on my own TOZED S12 PRO before being published, to ensure basic functionality and minimize risk during flashing.This firmware was tested on the Dialog (ISP) S12 Pro router**
 <be>
 
 ![images](https://github.com/user-attachments/assets/363d2588-d3f3-408a-a724-58a2c1177d56)
