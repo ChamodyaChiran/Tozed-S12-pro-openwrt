@@ -38,7 +38,6 @@ ChamodyaWRT is a free and open-source firmware developed for the TOZED S12 PRO r
 * please check releases for more updates
 
 <br/>
-
 ### Install Passwall
 
 - You can install PassWall using this command. Before running it, make sure you have enough space (~20 MB); otherwise, the installation will fail. The S12 Pro does not have sufficient internal storage, so you will need to use a USB drive as an overlay. If you haven’t configured a USB drive yet, you can run the command available in the [Extroot configuration](https://github.com/ChamodyaChiran/Tozed-S12-pro-openwrt?tab=readme-ov-file#Extroot-configuration)
@@ -47,7 +46,6 @@ ChamodyaWRT is a free and open-source firmware developed for the TOZED S12 PRO r
 ```
 wget -O /tmp/install_passwall.sh https://raw.githubusercontent.com/ChamodyaChiran/Tozed-S12-pro-openwrt/main/install_passwall.sh && chmod +x /tmp/install_passwall.sh && /tmp/install_passwall.sh
 ```
-
 ### Extroot configuration
 
 - Plug in your USB drive and run this command in your router terminal. (this will format your USB drive).
@@ -99,17 +97,11 @@ wget -O /tmp/extroot_configuration.sh https://raw.githubusercontent.com/Chamodya
 
 **Login Details**
 ```
-Webgui: https://192.168.8.1
+Webgui: https://192.168.1.1
 User: root
 Password: <empty>
 ```
-**Tiny FIle Manager Details**(optional)
-```
-Username: admin
-Password: admin@123
-Username: user
-Password: 12345
-```
+
 **Wifi Details**
 ```
 SSID: ChamodyaWrt_2G / ChamodyaWrt_5G / ChamodyaWrt_IOT / GUEST WIFI
