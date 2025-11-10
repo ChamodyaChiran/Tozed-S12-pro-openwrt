@@ -20,3 +20,4 @@ uci commit fstab
 mount ${DEVICE} /mnt
 tar -C ${MOUNT} -cvf - . | tar -C /mnt -xf -
 reboot
+
