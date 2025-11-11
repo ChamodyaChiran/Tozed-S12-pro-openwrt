@@ -14,4 +14,7 @@ opkg install iptables-mod-tproxy
 opkg install kmod-ipt-nat 
 opkg install dnsmasq-full
 opkg install luci-app-passwall
+opkg install xray-core
+opkg install hysteria
+opkg install sing-box
 reboot
